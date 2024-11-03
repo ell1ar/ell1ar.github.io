@@ -45,7 +45,7 @@ export default function App() {
                 </div>
             </h1>
 
-            <h2 className="text-md font-normal uppercase text-[#484848] w-full">
+            <h2 className="text-md font-normals uppercase text-[#484848] w-full">
                 Last projects:
             </h2>
 
